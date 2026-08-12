@@ -7,7 +7,7 @@
 BambuRFID is a minimal Flutter app for Android only. It reads compatible Bambu Lab filament RFID tags via the phone's NFC and displays filament information directly.
 
 <p align="center">
-  <img src="image/main.png" alt="BambuRFID main screen" width="280">
+  <img src="image/main.jpg" alt="BambuRFID main screen" width="560">
 </p>
 
 ## Features
