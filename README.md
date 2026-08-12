@@ -1,8 +1,13 @@
+# BambuRFID
+
+<p align="center">
+  <a href="README.en.md">English</a> | 中文
+</p>
+
 <p align="center">
   <img src="image/icon.png" alt="BambuRFID" width="120">
 </p>
 
-# BambuRFID
 
 BambuRFID 是一款仅面向 Android 的极简 Flutter 应用，通过手机 NFC 读取兼容的 Bambu Lab 耗材 RFID 标签，并直接展示耗材信息。
 
